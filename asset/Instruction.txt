@@ -1,0 +1,25 @@
+*SNAKE GAME INSTRUCTION*
+OVERALL:
+Your mission: Guide the snake eats the apple to grow longer.
+Avoid the wall and your own tail.
+The higher the level, the higher your score.
+
+CONTROLS:
+Use the arrow keys(Up, Down, Left, Right) to control.
+The snake will move in the chosen direction.
+
+GAMEPLAY:
+Eating Apple: Move the snake to eat apple and grow longer.
+Scoring: Every apple eaten adds to your score. 
+Stop: Press the Space key to pause the game and continue.
+Exit game: Use the X key to exit the game
+
+GAME OVER:
+The game ends if:
+The snake collides with the walls.
+The snake collides with its own tail.
+The snake collides with the barrier(in high level).
+
+
+
+
